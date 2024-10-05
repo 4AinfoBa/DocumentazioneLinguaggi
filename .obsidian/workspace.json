@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e357dd089b3d6722",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c5b5fba1cca9754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0409494b3881e9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "160c483a75bd43c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "592dab1061abf550",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6981583fca7fc56c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8465016601c442e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "130a79550fc94a26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca0c48ae560fcd06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac17f6011dbe4b97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22bcf322f54bf5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2572da61117e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5de722e20e6ee0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2f1e41b1193e974",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a23c0c23e4c3ddc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd1e53e2effe7d05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "592dab1061abf550",
+  "lastOpenFiles": [
+    "SpringBoot.md",
+    "Welcome.md",
+    "Simfony.md",
+    "Git e Github.md"
+  ]
+}

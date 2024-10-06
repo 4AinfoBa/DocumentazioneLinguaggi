@@ -19,7 +19,6 @@
 ## Before-you-start
 
 If this is your first backend framework, let's go over some fundamentals and best practices to follow to write good code.
-
 ### key-concepts
 
 #### RESTful-APIs
@@ -44,7 +43,7 @@ that helps the "Runner" infer some more thing that it should do, other than the 
 To install SpringBoot on linux you need to first install maven ( or Gradle ), then download the tar. Then extract it using:
 
 ```bash
-tar -xzvf spring-boot-cli-3.3.4-bin.tar.gz -C ~/<Destinazione>
+tar -xzvf spring-boot-cli-3.3.4-bin.tar.gz -C ~/<Destination>
 ```
 
 then add this line to your .zshrc or -bashrc file:
@@ -57,7 +56,7 @@ export PATH=$PATH:/home/<Username>/<springDirectory>/bin
 
 to create a new project use this command
 ```bash
-spring init --build=maven -n <projectName> <projectDir>/
+spring init --build=maven -d -n <projectName> <projectDir>/
 ```
 
 ### Starting-a-web-server

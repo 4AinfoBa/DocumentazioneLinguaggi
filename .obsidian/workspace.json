@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "160c483a75bd43c6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "592dab1061abf550",
+            "id": "024effb918889ebb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JSP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JSP.md"
+              }
             }
           }
         ]
@@ -156,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "592dab1061abf550",
+  "active": "024effb918889ebb",
   "lastOpenFiles": [
     "SpringBoot.md",
-    "Welcome.md",
+    "JSP.md",
     "Simfony.md",
-    "Git e Github.md"
+    "Git e Github.md",
+    "Welcome.md"
   ]
 }

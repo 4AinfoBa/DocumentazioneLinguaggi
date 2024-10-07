@@ -17,11 +17,12 @@ Now you need to configure tomcat itself, by clicking on "configure" near "Applic
 
 If you correctly found tomcat, now make sure that the HTTPS port is not set, and that the HTTP is.
 
+Set the "On 'Update' action" and "On frame deactivation" options to "Update classes and resources" to be able to check changes, by only refreshing the webpage on your browser.
+
 Then go to "Deployment" that is next to "Server", and check if there is something, if you don't find anything, click on "+", then on "artifact" and then on the one with "exloded" in the name. If you don't find anything or you can't click the "+", then click on the pencil. In the new menu click the "+", and select "Web Application: Exploded" > "From module", and you should be ready. 
 
 >[!note]
->set the "On 'Update' action" and "On frame deactivation" options to "Update classes and resources" to be able to check changes, by only refreshing the webpage on your browser.
->I'd also advice to not disable the "open browser" after launch option  
+>I'd advice to not disable the "open browser" after launch option  
 
 ## Syntax
 

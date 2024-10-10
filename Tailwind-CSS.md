@@ -53,7 +53,7 @@ And add this to the end of your CSS file:
 
 Now from your IDE run this command when you start programming (It automatically "senses" the changes in your files and compiles them):
 ```
-npx tailwindcss -i ./src/input.css -o ./src/output.css --watch     
+npx tailwindcss -i <pathToInput>/<filename>.css -o <pathToOutput>/<fileName>.css --watch     
 ```
 
 

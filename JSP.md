@@ -53,5 +53,5 @@ Follow these steps:
 
 ![[Tailwind-CSS.md###Tailwind-Cli]]
 
-and use `./src/main/resources/output.css` as your output.
+and use `./src/main/webapp/resources/output.css` as your output.
 

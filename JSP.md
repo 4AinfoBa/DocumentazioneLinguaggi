@@ -45,11 +45,11 @@ In this chapter we will go over some thing that will help us upgrade our webpage
 
 To include Tailwind in our project we have two ways:
 - [Include tailwind javascript in our pages](Tailwind-CSS.md###Link-in-your-HTML)
-- [Compile our TailwindCSS in our project
+- Compile our TailwindCSS in our project
 
 The latter is the clean way to do things, as it only compiles used css files, and let's us test even if we are offline once we have it set up correctly.
 
-Follow [these steps ( click here if the section below isn't displayed )](Tailwind-CSS.md###Tailwind-Cli):
+Follow these steps [( click here if the section after isn't displayed properly)](Tailwind-CSS.md###Tailwind-Cli):
 ![[Tailwind-CSS.md###Tailwind-Cli]]
 
 and use `./src/main/webapp/resources/output.css` as your output.

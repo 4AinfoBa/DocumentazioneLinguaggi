@@ -2,7 +2,13 @@
 
 ## Index
 
-## Bases
+1. [Set-up](##Set-up)
+	- [Creating-a-JSP-project](###Creating-a-JSP-project)
+	- [Running-the-application](###Running-the-application)
+ 2. [Spice-it-up](##Spice-it-up)
+
+
+## Set-up
 ### Creating-a-JSP-project
 
 In this tutorial i'll be using intelliJ as it is the most stright forward experience for java development, said so, you'll need to create a new project, using the webapp maven archetype (new > project > maven archetypes and then write this in archetypes `org.apache.maven.archetypes:maven-archetype-webapp`)
@@ -24,5 +30,28 @@ Then go to "Deployment" that is next to "Server", and check if there is somethin
 >[!note]
 >I'd advice to not disable the "open browser" after launch option  
 
-## Syntax
+### Static-files
+
+Create a "resources" directory inside the "webapp" directory, and put all the Images, CSS and JS files inside that "resources" directory.
+Then just normaly reference the files inside your JSP pages.
+
+## Spice-it-up
+
+In this chapter we will go over some thing that will help us upgrade our webpages.
+
+### Tailwind-Css
+
+> if you want to learn it see [Tailwind CSS website](https://tailwindcss.com/) ([Documentation](Tailwind-CSS.md) is still WIP) 
+
+To include Tailwind in our project we have two ways:
+- [Include tailwind javascript in our pages](Tailwind-CSS.md###Link-in-your-HTML)
+- [Compile our TailwindCSS in our project
+
+The latter is the clean way to do things, as it only compiles used css files, and let's us test even if we are offline once we have it set up correctly.
+
+Follow these steps:
+
+![[Tailwind-CSS.md###Tailwind-Cli]]
+
+and use `./src/main/resources/output.css` as your output.
 

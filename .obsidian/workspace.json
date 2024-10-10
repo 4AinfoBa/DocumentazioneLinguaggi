@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "114a77e4ca26ae23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind-CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f23e63c8f0cc2f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind-CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP.md",
+                "file": "Tailwind-CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP.md",
+                "file": "Tailwind-CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP.md"
+                "file": "Tailwind-CSS.md"
               }
             }
           }
@@ -159,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "024effb918889ebb",
+  "active": "114a77e4ca26ae23",
   "lastOpenFiles": [
-    "SpringBoot.md",
     "JSP.md",
+    "Tailwind-CSS.md",
+    "().md",
     "Simfony.md",
+    "SpringBoot.md",
     "Git e Github.md",
     "Welcome.md"
   ]

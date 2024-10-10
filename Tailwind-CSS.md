@@ -42,6 +42,7 @@ npx tailwindcss init
 ```
 
 Then edit your config based on your project structure:
+[see basic-config](###Basic-config)
 ![[###Basic-config]]
 
 And add this to the end of your CSS file:

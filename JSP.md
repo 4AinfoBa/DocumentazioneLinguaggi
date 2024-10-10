@@ -49,8 +49,7 @@ To include Tailwind in our project we have two ways:
 
 The latter is the clean way to do things, as it only compiles used css files, and let's us test even if we are offline once we have it set up correctly.
 
-Follow these steps:
-
+Follow [these steps ( click here if the section below isn't displayed )](Tailwind-CSS.md###Tailwind-Cli):
 ![[Tailwind-CSS.md###Tailwind-Cli]]
 
 and use `./src/main/webapp/resources/output.css` as your output.

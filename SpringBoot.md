@@ -79,26 +79,9 @@ mvn spring-boot:run
 
 ### connecting-to-mariaDB
 
-After having installed mariaDB, and having enabled the service using:
+![[MariaDB#Bases]]
 
-```bash
-sudo systemctl start mariadb
-```
-
-And having created a user:
-
-```sql
-CREATE USER <userName>@localhost IDENTIFIED BY '<password>';
-```
-
-And a DB:
-
-```sql
-CREATE DATABASE <DBName>;
-GRANT ALL PRIVILEGES ON <DBName> TO '<userName>'@'localhost';
-```
-
-First you'll need to add these dependencies to your `pom.xml`:
+you'll need to add these dependencies to your `pom.xml`:
 
 ```xml
 <dependency>  
